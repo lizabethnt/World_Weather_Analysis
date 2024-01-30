@@ -1,2 +1,3 @@
 # World_Weather_Analysis 
 #files for UofO/edX bootcamp Module 6/
+#Using starte files provided by bootcamp, finds the current weather at random locations around the world by using an api call.  Creates scatter plots of Latitude vs Max Temperature, Latitude vs Humidity, Latitude vs Cloudiness and Lattitude vs Wind Speed.  Computes a linear regression for each of these relationships.  Creates a map visualizing humidity levels.  Isolates the city data for preferred weather conditions.  I chose max temperature between 23 and 24 celcius, cloudiness greater than or equal to 40% and Humidity greater than or equal to 45%.  Finds hotels at cities meeting those weather conditions, and plots those cities on a map. 
